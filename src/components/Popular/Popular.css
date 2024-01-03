@@ -1,0 +1,27 @@
+.Popular{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 90vh;
+}
+
+.Popular h1{
+    color: #171717;
+    font-size: 50px;
+    font-style: 500;
+}
+
+.Popular hr{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background: #252525;
+}
+
+.Popular-item{
+    display: flex;
+    margin-top:1rem ;
+    justify-content: space-around;
+    gap: 30px;
+}

@@ -3,7 +3,6 @@
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    height: 90vh;
 }
 
 .Popular h1{
@@ -14,7 +13,7 @@
 
 .Popular hr{
     width: 200px;
-    height: 60px;
+    height: 6   px;
     border-radius: 10px;
     background: #252525;
 }
